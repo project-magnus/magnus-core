@@ -1,3 +1,5 @@
+Project actively maintained by AstraZeneca at: https://github.com/AstraZeneca/magnus-core
+
 # Hello from magnus
 
 Magnus is a data science pipeline definition and execution tool. It provides a way to:
